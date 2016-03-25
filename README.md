@@ -2,8 +2,8 @@
 
 (WIP) **FeDAG** is a fast and general cluster computing system for Big Data writing in **Rust Language**
 
-# **WARNING**: 
-fedag is still in experimental status. It is probably not very robust and not (yet) suitable for production applications.
+## **WARNING** 
+**fedag** is still in experimental status. It is not (yet) suitable for production applications.
 
 ## License
 
