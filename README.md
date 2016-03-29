@@ -2,6 +2,14 @@
 
 (开发中) **FeDAG**的目标是开发出第四代集群通用计算引擎，满足高效的迭代计算，批处理，图计算，流式计算。 同时满足内存安全，并发安全，类型安全。本项目完全采用 **Rust** 语言来开发，属于学习研究项目，请暂时不要在工程中使用。
 
+# [This week in FeDAG](https://github.com/opendatasci/thisweekinfedag)
+
+每周关于 FeDAG 开发进展的总结
+
+# [FeDAG RFC](https://github.com/opendatasci/fedagrfc)
+
+FeDAG 的 RFC （请求协议），关于 FeDAG 项目的开发，设计，Bug，issue，PR 都可以在这里提出请求。
+
 
 ## **WARNING** 
 
